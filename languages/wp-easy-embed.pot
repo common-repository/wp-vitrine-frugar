@@ -1,0 +1,57 @@
+# Copyright (C) 2010 WP Vitrine Frugar
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Vitrine Frugar 1.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  wp-vitrine-frugar.pot (WP Easy Embed 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-vitrine-frugar.php:33 wp-vitrine-frugar.php:34 wp-vitrine-frugar.php:322
+msgid "Use o Vitrine Frugar para criar e exibir em seu blog vitrines de produtos com recomendações feitas por você aos seus leitores e ganhe dinheiro com isso"
+msgstr ""
+
+#: wp-vitrine-frugar.php:221 wp-vitrine-frugar.php:256
+msgid "Vitrine Frugar"
+msgstr ""
+
+#: wp-vitrine-frugar.php:293
+msgid "Configurações"
+msgstr ""
+
+#: wp-vitrine-frugar.php:299
+msgid "Aonde mostrar"
+msgstr ""
+
+#: wp-vitrine-frugar.php:306
+msgid "Manter configuração"
+msgstr ""
+
+#: wp-vitrine-frugar.php:330
+msgid "Salvar alterações"
+msgstr ""
+
+#: wp-vitrine-frugar.php:370
+msgid "na Media toolbar"
+msgstr ""
+
+#: wp-vitrine-frugar.php:370
+msgid "no Editor toolbar"
+msgstr ""
+
+#: wp-vitrine-frugar.php:370
+msgid "em FullScreen Mode"
+msgstr ""
+
+#: wp-vitrine-frugar.php:386
+msgid "Manter configurações após desativar plugin."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Use o Vitrine Frugar para criar e exibir em seu blog vitrines de produtos com recomendações feitas por você aos seus leitores e ganhe dinheiro com isso"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Frugar"
+msgstr ""
